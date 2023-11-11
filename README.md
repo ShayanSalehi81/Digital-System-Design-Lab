@@ -1,4 +1,4 @@
-# CE203-DSD-Lab
+# Digital-System-Design-Lab
 Solutions to Dr. Ejlali's CE203: Digital Systems Design-Lab (Sharif University of Technology - Summer 2023) Assignments
 
 ## Overview
